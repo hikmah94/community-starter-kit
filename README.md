@@ -2,9 +2,16 @@
 
 DESCRIPTION PLACEHOLDER
 
-## What it does
+Mona has been working with a few members of the team to fine-tune the app, but someone recommended they make the project open source so that other projects can start creating the same awesome experiences for first timers.
+
 
 FEATURES PLACEHOLDER
+
+- Help others understand how they can use Mona's project
+- Recognize the ways people may contribute
+- Establish systems to organize contributions
+- Set expectations for contributors
+- Make Mona's project easy to find
 
 ## Getting started
 
